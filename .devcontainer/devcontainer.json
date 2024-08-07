@@ -1,5 +1,6 @@
 {
     "name": "danfenews.org",
-    "image": "rasa/rasa:latest"
+    "image": "rasa/rasa:latest",
+    "remoteUser": "root"
 }
    
